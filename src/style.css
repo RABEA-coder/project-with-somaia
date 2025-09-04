@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+
+
+/* npx @tailwindcss/cli -i ./src/style.css -o ./public/assets/stylesheet/app.css --watch */

@@ -1,5 +1,5 @@
 {
-  "name": "project-with-somaia",
+  "name": "new-folder",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,18 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@tailwindcss/cli": "^4.1.12",
-    "tailwindcss": "^4.1.12"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RABEA-coder/project-with-somaia.git"
-  },
-  "bugs": {
-    "url": "https://github.com/RABEA-coder/project-with-somaia/issues"
-  },
-  "homepage": "https://github.com/RABEA-coder/project-with-somaia#readme"
+  "license": "ISC"
 }
